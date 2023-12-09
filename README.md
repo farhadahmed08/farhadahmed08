@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **redux,typescript**
 
 - 📫 How to reach me **farhaddhkbd08@gmail.com**
+- ⚡ Fun fact:  I love to travel,football and I can speak 4 languages. 
 
 
 <h2 >📫 Reach me out</h2>
