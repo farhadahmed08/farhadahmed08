@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h2 >📫 Reach me out</h2>
 <p align="center">
-<a href="https://linkedin.com/in/mohammad farhad ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad farhad ahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-farhad-ahmed-789746147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad farhad ahmed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22104624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104624" height="30" width="40" /></a>
 
 </p>
