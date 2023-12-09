@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 
 <h1 >📈 Current Stats</h1>
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhadahmed08&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadahmed08&show_icons=true&locale=en&layout=compact" alt="farhadahmed08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadahmed08&show_icons=true&locale=en" alt="farhadahmed08" /></p>
