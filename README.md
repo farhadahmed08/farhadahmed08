@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e47a33p3ovdh2y0q2ghv3j5e2shiqrzuaexx4brigo7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h2 >👀 Current overview</h2>
-- 🌱 I’m currently learning **redux,typescript**
+- 🌱 I’m currently learning **redux,typescript,nextJs**
 
 - 📫 How to reach me **farhaddhkbd08@gmail.com**
 - ⚡ Fun fact:  I love to travel,football and I can speak 4 languages. 
