@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![The San Juan Mountains are beautiful!]([(https://i.ibb.co/MCCdMb3/Black-Yellow-Modern-Programmer-Linked-In-Banner.png)] "Developer Banner")
+![This is My Banner!](https://i.ibb.co/MCCdMb3/Black-Yellow-Modern-Programmer-Linked-In-Banner.png "My Banner")
 
 
 
