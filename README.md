@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![The San Juan Mountains are beautiful!]([https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=826&t=st=1702110866~exp=1702111466~hmac=e887195206f7f0e55ec13f6829b8b0b7540f2ac56cb18f15210418fea12383de](https://i.ibb.co/MCCdMb3/Black-Yellow-Modern-Programmer-Linked-In-Banner.png) "Developer Banner")
+![The San Juan Mountains are beautiful!]([(https://i.ibb.co/MCCdMb3/Black-Yellow-Modern-Programmer-Linked-In-Banner.png)] "Developer Banner")
 
 
 
